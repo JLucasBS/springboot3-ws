@@ -24,10 +24,8 @@ O objetivo principal foi aplicar os conceitos de **orientação a objetos** e **
 
 1.  **Pré-requisitos:** Certifique-se de ter o **JDK 21** e o **Maven** instalados.
 2.  **Execute a aplicação** usando o Maven:
-    \`\`\`
-    mvn spring-boot:run
-    \`\`\`
-    A aplicação será iniciada na porta padrão \`8080\`, e o banco de dados H2 será populado com os dados de exemplo.
+    `mvn spring-boot:run`.
+    A aplicação será iniciada na porta padrão `8080`, e o banco de dados H2 será populado com os dados de exemplo.
 
 ---
 
